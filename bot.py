@@ -3,7 +3,7 @@ import requests
 from telebot import types
 
 BOT_TOKEN = "8924492918:AAGaKEZwAAHbzsIPp1ZY6Z6394yDkXXDmVQ"
-SEARXNG_URL = "https://your-searxng.up.railway.app"  # <-- tomar Railway URL boshao
+SEARXNG_URL = "global-scraping-production.up.railway.app"  # <-- tomar Railway URL boshao
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
